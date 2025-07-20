@@ -1,8 +1,5 @@
 -- CONFIG
 local correctKey = "AV!9MP}d7I/hQ"EL"
-local correctKey = "*GXE>_>s2pwNXo}S"
-local correctKey = "[.$rwPF+F)Pao<RX"
-local correctKey = "wS4%UK;xv)J>s;kW"
 local scriptURL = "https://raw.githubusercontent.com/GuppIscool/C-InLua/refs/heads/main/Main" -- Replace with actual URL
 
 -- UI for key entry
